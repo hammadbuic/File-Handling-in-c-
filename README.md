@@ -1,5 +1,7 @@
 # File-Handling-in-c-
-A simple program to show the work of file handling in C++
+A simple program to show the work of file handling and dynamic arrays in C++.
+
+
 Problem Statement:
 Create a text file containing 300 names of students, their father’s name and their CNIC numbers. Leading on from the above system, you have to alter its main(). Now make this system in such away that on run time, it should be able to generate random intake of students. The program must be generated randomly, while the student name, father name and CNIC must be read from a text file that should contain information of 300 students.
 For example.
